@@ -1,3 +1,3 @@
 
 something
-new text added
+replaced
