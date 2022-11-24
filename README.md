@@ -1,2 +1,1 @@
-some initial text
-new scipt run-1
+ new test run from jmeter
